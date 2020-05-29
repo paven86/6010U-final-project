@@ -8,6 +8,7 @@ Models:
 
 - XG-boost:
 	- [https://arxiv.org/pdf/1603.02754v3.pdf]
+	- https://ongxuanhong.wordpress.com/2017/12/21/xgboost-thuat-toan-gianh-chien-thang-tai-nhieu-cuoc-thi-kaggle/\n
 	- [https://www.kdnuggets.com/2017/10/xgboost-top-machine-learning-method-kaggle-explained.html]
 	- [https://xgboost.readthedocs.io/en/latest/]
 	- [https://www.analyticsvidhya.com/blog/2018/09/an-end-to-end-guide-to-understand-the-math-behind-xgboost/]
